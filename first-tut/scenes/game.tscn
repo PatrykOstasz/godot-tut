@@ -288,3 +288,6 @@ autoplay = &"platform_move"
 
 [node name="GreenSlime" parent="." unique_id=728135329 instance=ExtResource("6_p57ef")]
 position = Vector2(498, 36)
+
+[node name="GreenSlime2" parent="." unique_id=1240912316 instance=ExtResource("6_p57ef")]
+position = Vector2(90, -44)
